@@ -129,12 +129,12 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-id="NBTTVChiangMai.th" tvg-chno="152" group-title="List 1",NBT TV Chiang Mai
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-chno="201" group-title="List 1",True Movie Hits (720p)
-http://58.8.186.128:10003/bysid/2325
-#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-chno="202" group-title="List 1",TrueFilm 2 (720p)
-http://58.8.186.128:10004/bysid/2432
-#EXTINF:-1 tvg-id="TrueTennis.th" tvg-chno="203" group-title="List 1",TrueTennis (720p)
-http://58.8.186.128:10004/bysid/2418
+#EXTINF:-1 tvg-id="AcademyFantasia.th" tvg-chno="334" group-title="List 1",Academy Fantasia
+https://cdn876.stm.trueid.net/p102aes/t533_multi_w_auto_aes_tvn.smil/playlist.m3u8?appid=tvn&type=live&visitor=web&drm=aes&uid=147127161&did=Y2hyb21lLTE3OTIzMTk5OTE3ODg&mpass=dtCCPp9sfPHiye8ItoevUlqRTMALnjjZvSWlkqHf0Hk478xK_oooz44oN4ny51I2rIJcDZr77njBQ-0WQ2bRvitFffpSIj8vQBOG_JXYYesgID2SbN8PRdcP8sDBz-wEs7g&sid=f3c6b96c35&rt=1792326626&ds=25200&prd=V3lKT1QxZGZRa0ZUU1VOZlJsSkZSU0pkfDE&tk=myEd6Q_2vzRAkdOiVpM7JADkBcK4TuW21IEFahnpieg
+#EXTINF:-1 tvg-id=TrueDhama.th" tvg-chno="333" group-title="List 1",สามเณรปลูกปัญญา
+https://cdn024.stm.trueid.net/p402aes/107_multi_w_auto_aes_tvn.smil/playlist.m3u8?appid=tvn&type=live&visitor=web&drm=aes&uid=147127161&did=Y2hyb21lLTE3OTIzMTk5OTE3ODg&mpass=lQ0cZjgNpqCD1REfu28l3O_2Gem-ydPZ_OYMSQ6XjWduWI8Q2GeidoSXUKubbK8HW57vX35Aj55HCtRFshFAlnlMzt5pj0eo9u3gR_xgws0gIIiUyU-iQgHYFpb0GavL4CE&sid=da095746d3&rt=1792326695&ds=25200&prd=V3lKT1QxZGZRa0ZUU1VOZlJsSkZSU0pkfDE&tk=TkvY2HMcjJOv_yXo6XYQ2e6vfCWJcFbtUkx0ARDnKyk
+#EXTINF:-1 tvg-id="TruePlookpanya.th" tvg-chno="300" group-title="List 1",TRUE Plookpanya
+https://cdn024.stm.trueid.net/p402aes/139_multi_w_auto_aes_tvn.smil/playlist.m3u8?appid=tvn&type=live&visitor=web&drm=aes&uid=147127161&did=Y2hyb21lLTE3OTIzMTk5OTE3ODg&mpass=Zk4cxRNdQr7_NpUmSHzaZjgJl_rjssJhuuGw0yGJsnhgkGYiUVXKw2N_8FlKZsPifXUz2PT6Qg1KH1F1uF3GASwaDeJ8YRXALeAp77s-klggIPvtc3U7n3Oe2SX-BDiPbHs&sid=f24f3a8201&rt=1792320771&ds=25200&prd=V3lKT1QxZGZRa0ZUU1VOZlJsSkZSU0pkfDE&tk=Qcg-oKrDNxDuYf5OHIPA7ZLs5YHE7XK6sxCeh7l1l1g
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-chno="204" group-title="List 1",TrueFilm Asia (720p)
 http://58.8.186.128:10004/bysid/2416
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-chno="205" group-title="List 1",TrueFilm 1 (720p)
